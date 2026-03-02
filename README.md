@@ -1,37 +1,37 @@
-# HTL-Projekte Übersicht
+# 🎓 HTL-Projekte Organisation
 
-Willkommen im zentralen Repository! Hier findest du alle Hausübungen und Projekte, sortiert nach Unterrichtsfach.
+Willkommen in der zentralen Sammlung für Projekte, Übungen und Hausübungen. Diese Organisation dient als Wissensdatenbank und Archiv für alle Schüler.
 
 ---
 
-## Softwareentwicklung (SEW)
-*Hier kommen Projekte wie Java, C#, Algorithmen oder Datenbankanbindungen rein.*
+## 📍 Wo finde ich was?
 
-* [Linq Basics](https://github.com/HTL-Projekte/linq-basics) – Kurze Beschreibung (z.B. Schulübung zu Vererbung).
-* [Projekt-Name-2](https://github.com/HTL-Projekte/repo-name) – Beschreibung.
-* ---
+Wir nutzen das **GitHub-Wiki**, um alles sauber nach Schulstufen, Semestern und Fächern zu trennen. 
 
-## Medientechnik (MEDT)
-*Webdesign, Bildbearbeitung, Audio/Video-Projekte.*
+👉 **[ZUM PROJEKT-ARCHIV (WIKI) KLICKEN](https://github.com/HTL-Projekte/.github/wiki)**
 
-* [Portfolio-Webseite](https://github.com/HTL-Projekte/repo-name) – HTML/CSS Übung vom Oktober.
-* [Logo-Design](https://github.com/HTL-Projekte/repo-name) – Illustrator Projekt.
-* ---
+Dort findest du:
+* 📂 **Projekte:** Sortiert von der 1. bis zur 5. Klasse.
+* 📚 **Fächer:** SEW, MEDT, SYT, NW2 und mehr.
+* 📋 **Guides:** Anleitung zum Erstellen von Repos und Markdown-Tipps.
 
-## 🌐 Netzwerktechnik (NWTK)
-*Cisco, Server-Konfigurationen, Protokolle.*
+---
 
-* [VLAN-Konfiguration](https://github.com/HTL-Projekte/repo-name) – Packet Tracer Übung.
-* ---
+## 🚀 Mitmachen
 
-## 🛠️ Systemtechnik (SYT)
-*Projektmanagement, Linux, Hardware.*
+Du möchtest deine eigenen Projekte teilen oder die Listen ergänzen?
 
-* [Projekt-Dokumentation](https://github.com/HTL-Projekte/repo-name) – Vorlage für SYP.
-* ---
+1. **Beitreten:** Erstelle ein [Issue](https://github.com/HTL-Projekte/.github/issues), um eine Einladung zur Organisation zu erhalten.
+2. **Dokumentieren:** Schau dir unsere [Abgabe-Regeln](https://github.com/HTL-Projekte/.github/wiki/Regeln-Abgaben) an.
+3. **Eintragen:** Verlinke dein Repository im Wiki auf der entsprechenden Fach-Seite.
 
-## 📖 Anleitung zum Erweitern
-1. Suche das passende **Fach**.
-2. Kopiere die Zeile `* [Name](Link) – Beschreibung`.
-3. Ersetze `Name`, `Link` und `Beschreibung` mit deinen Daten.
-4. Falls ein Fach fehlt: Kopiere einen ganzen Block (von `##` bis zum nächsten `---`)
+---
+
+## 🛠️ Top Projekte (Highlight)
+
+* *Noch nichts zu sehen hier*
+
+---
+
+> [!NOTE]
+> Diese Organisation wird von Schülern für Schüler verwaltet. Sei höflich und hilf anderen, ihren Code besser zu verstehen!
