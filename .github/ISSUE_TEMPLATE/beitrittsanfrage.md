@@ -14,6 +14,8 @@ assignees: ''
 
 (Die Schul-Email wird benutzt, um grieving & Bot accounts zu verhindern)
 
+Um auszuwählen, lösche bei den "[ ]" den space in der mitte und ersetze ihn mit einem "x"
+
 ## 🛠️ Motivation
 - [ ] Ich möchte meine Projekte im Wiki verlinken.
 - [ ] Ich möchte neue Repositories in der Organisation erstellen.
