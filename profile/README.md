@@ -13,7 +13,7 @@ Wir nutzen das **GitHub-Wiki**, um alles sauber nach Schulstufen, Semestern und 
 Dort findest du:
 
 * 📂 **Projekte:** Sortiert von der 1. bis zur 5. Klasse.
-* 📚 **Fächer:** SEW, MEDT, SYT, NW2 und mehr.
+* 📚 **Fächer:** SEW, MEDT, etc etc.
 * 📋 **Guides:** Anleitung zum Erstellen von Repos und Markdown-Tipps.
 * 🧠 **Git-Intro:** Workflow & Organisationsregeln
   👉 [https://github.com/HTL-Projekte/.github/wiki/Git-Intro](https://github.com/HTL-Projekte/.github/wiki/Git-Intro)
